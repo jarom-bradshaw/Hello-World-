@@ -2,7 +2,7 @@
 
 Here is a fun way to look at how to do the "Hello World!" challenge in a few ways. 
 
-The first method is importing the __hello__ module. Second, I simply print Hello World with a fun addition to show that I speak portuguese fluently.
+The first method is importing the \_\_hello\_\_ module. Second, I simply print Hello World with a fun addition to show that I speak portuguese fluently.
 
 This project helps show that I know how to import modules, or use the print statement that python provides. In other languages it could be Console.Write("") or console.log, or some other form of printing in any other language, this method should work.
 
