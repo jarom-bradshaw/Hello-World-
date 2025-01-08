@@ -17,6 +17,5 @@ This project helps show that I know how to import modules, or use the print stat
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [geeksforgeeks](https://www.geeksforgeeks.org/python-program-to-print-hello-world/)
 * [datacamp](https://www.datacamp.com/tutorial/python-hello-world-a-beginners-guide-to-programming)
